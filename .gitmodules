@@ -3,4 +3,4 @@
 	url = https://gitlab.com/d8euAI8sMs/pt-2-process-manager.git
 [submodule "pt-1-error-lookup"]
 	path = pt-1-error-lookup
-	url = https://gitlab.com/kalaider/pt-1-error-lookup.git
+	url = https://gitlab.com/d8euAI8sMs/pt-1-error-lookup.git
