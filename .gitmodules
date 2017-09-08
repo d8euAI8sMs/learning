@@ -4,3 +4,6 @@
 [submodule "pt-1-error-lookup"]
 	path = pt-1-error-lookup
 	url = https://gitlab.com/d8euAI8sMs/pt-1-error-lookup.git
+[submodule "pt-3-threads"]
+	path = pt-3-threads
+	url = https://gitlab.com/d8euAI8sMs/pt-3-threads.git
