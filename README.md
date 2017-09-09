@@ -8,4 +8,5 @@
 | `pt-2-process-manager`   | [![Build status](https://ci.appveyor.com/api/projects/status/4cdx9mg9jbieikha?svg=true)](https://ci.appveyor.com/project/kalaider/pt-2-process-manager) |
 | `pt-3-threads`           | [![Build status](https://ci.appveyor.com/api/projects/status/9n45tklew2adl6gx?svg=true)](https://ci.appveyor.com/project/kalaider/pt-3-threads) |
 | `pt-4-synchronization`   | [![Build status](https://ci.appveyor.com/api/projects/status/58tdvv2ho1aipkkm?svg=true)](https://ci.appveyor.com/project/kalaider/pt-4-synchronization) |
+| `pt-5-dll`               | [![Build status](https://ci.appveyor.com/api/projects/status/j3lwgpg4cj3vyhy3?svg=true)](https://ci.appveyor.com/project/kalaider/pt-5-dll) |
 
