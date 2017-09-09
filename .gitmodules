@@ -10,3 +10,6 @@
 [submodule "pt-4-synchronization"]
 	path = pt-4-synchronization
 	url = https://gitlab.com/d8euAI8sMs/pt-4-synchronization.git
+[submodule "pt-5-dll"]
+	path = pt-5-dll
+	url = https://gitlab.com/d8euAI8sMs/pt-5-dll.git
