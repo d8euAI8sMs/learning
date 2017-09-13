@@ -13,3 +13,6 @@
 [submodule "pt-5-dll"]
 	path = pt-5-dll
 	url = https://gitlab.com/d8euAI8sMs/pt-5-dll.git
+[submodule "ss-1-logistic"]
+	path = ss-1-logistic
+	url = https://gitlab.com/d8euAI8sMs/ss-1-logistic.git

@@ -10,3 +10,10 @@
 | `pt-4-synchronization`   | [![Build status](https://ci.appveyor.com/api/projects/status/58tdvv2ho1aipkkm?svg=true)](https://ci.appveyor.com/project/kalaider/pt-4-synchronization) |
 | `pt-5-dll`               | [![Build status](https://ci.appveyor.com/api/projects/status/j3lwgpg4cj3vyhy3?svg=true)](https://ci.appveyor.com/project/kalaider/pt-5-dll) |
 
+## Simulation of Systems
+
+
+| Name                     | Badge |
+| ------------------------ | ----- |
+| `ss-1-logistic`          | [![Build status](https://ci.appveyor.com/api/projects/status/ceftks75ohi1h3tx?svg=true)](https://ci.appveyor.com/project/kalaider/ss-1-logistic) |
+
