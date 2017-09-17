@@ -16,3 +16,6 @@
 [submodule "ss-1-logistic"]
 	path = ss-1-logistic
 	url = https://gitlab.com/d8euAI8sMs/ss-1-logistic.git
+[submodule "pt-6-component-model"]
+	path = pt-6-component-model
+	url = https://gitlab.com/d8euAI8sMs/pt-6-component-model.git
