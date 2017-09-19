@@ -19,3 +19,6 @@
 [submodule "pt-6-component-model"]
 	path = pt-6-component-model
 	url = https://gitlab.com/d8euAI8sMs/pt-6-component-model.git
+[submodule "pt-7-dual-interface"]
+	path = pt-7-dual-interface
+	url = https://gitlab.com/d8euAI8sMs/pt-7-dual-interface.git

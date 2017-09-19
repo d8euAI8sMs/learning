@@ -10,6 +10,7 @@
 | `pt-4-synchronization`   | [![Build status](https://ci.appveyor.com/api/projects/status/58tdvv2ho1aipkkm?svg=true)](https://ci.appveyor.com/project/kalaider/pt-4-synchronization) |
 | `pt-5-dll`               | [![Build status](https://ci.appveyor.com/api/projects/status/j3lwgpg4cj3vyhy3?svg=true)](https://ci.appveyor.com/project/kalaider/pt-5-dll) |
 | `pt-6-component-model`   | [![Build status](https://ci.appveyor.com/api/projects/status/f226fq51eib691ar?svg=true)](https://ci.appveyor.com/project/kalaider/pt-6-component-model) |
+| `pt-7-dual-interface`    | [![Build status](https://ci.appveyor.com/api/projects/status/y8y7qwg3uq5pnkxi?svg=true)](https://ci.appveyor.com/project/kalaider/pt-7-dual-interface) |
 
 ## Simulation of Systems
 
