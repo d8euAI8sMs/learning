@@ -28,3 +28,6 @@
 [submodule "pt-8-class-library"]
 	path = pt-8-class-library
 	url = https://gitlab.com/d8euAI8sMs/pt-8-class-library.git
+[submodule "ss-2-electromagnetic"]
+	path = ss-2-electromagnetic
+	url = https://gitlab.com/d8euAI8sMs/ss-2-electromagnetic.git
