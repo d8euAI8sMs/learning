@@ -24,7 +24,7 @@
 	url = https://gitlab.com/d8euAI8sMs/pt-7-dual-interface.git
 [submodule "util-cpp-common"]
 	path = util-cpp-common
-	url = https://gitlab.com/d8euAI8sMs/util-cpp-common.git
+	url = https://github.com/d8euAI8sMs/util-cpp-common.git
 [submodule "pt-8-class-library"]
 	path = pt-8-class-library
 	url = https://gitlab.com/d8euAI8sMs/pt-8-class-library.git
