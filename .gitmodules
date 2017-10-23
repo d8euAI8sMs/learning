@@ -31,3 +31,6 @@
 [submodule "ss-2-electromagnetic"]
 	path = ss-2-electromagnetic
 	url = https://gitlab.com/d8euAI8sMs/ss-2-electromagnetic.git
+[submodule "ss-3-delta-barrier"]
+	path = ss-3-delta-barrier
+	url = https://github.com/d8euAI8sMs/ss-3-delta-barrier.git
