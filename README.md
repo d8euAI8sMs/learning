@@ -1,7 +1,7 @@
 # Learning
 
-## Programming Technology
-                            
-## Simulation of Systems
+## ToC
 
-## Radioelectronics and Electronic Engineering
+* `pt-x` _is_ **P**rogramming **T**echnology
+* `ss-x` _is_ **S**imulation of **S**ystems
+* `ree-x` _is_ **R**adioelectronics and **E**lectronic **E**ngineering
