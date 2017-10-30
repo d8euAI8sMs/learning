@@ -34,3 +34,6 @@
 [submodule "ss-3-delta-barrier"]
 	path = ss-3-delta-barrier
 	url = https://github.com/d8euAI8sMs/ss-3-delta-barrier.git
+[submodule "ree-1-filter"]
+	path = ree-1-filter
+	url = https://github.com/d8euAI8sMs/ree-1-filter.git
