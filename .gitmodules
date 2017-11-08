@@ -43,3 +43,6 @@
 [submodule "appveyor-latex-build"]
 	path = appveyor-latex-build
 	url = https://github.com/d8euAI8sMs/appveyor-latex-build.git
+[submodule "ss-4-eigensystem"]
+	path = ss-4-eigensystem
+	url = https://github.com/d8euAI8sMs/ss-4-eigensystem.git
