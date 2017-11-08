@@ -1,0 +1,26 @@
+version: '{build}'
+
+environment:
+  LATEX_BUILD_COMMAND:
+    texify --pdf --src-specials --tex-option="--src -src-specials --tcx=CP1251 --shell-escape --enable-write18 --interaction=nonstopmode --synctex=-1" --batch
+
+# cache miktex installation
+cache:
+  - c:\miktex -> .\.latex.appveyor.yml
+
+install:
+
+  # fetch submodules
+  - git submodule update --init --recursive
+
+  # setup and install miktex if it was not restored from cache
+  - set "PATH=%PATH%;c:\miktex\texmfs\install\miktex\bin"
+  - cd .\appveyor-miktex-install
+  - if not exist c:\miktex\texmfs\install\miktex\bin\pdflatex.exe .\miktex-install.bat
+  - cd ..
+
+# build all configured submodules
+build_script:
+  - cp .\appveyor-latex-build\build.ps1 .\appveyor-latex-build.ps1
+  - powershell -f .\appveyor-latex-build.ps1
+
