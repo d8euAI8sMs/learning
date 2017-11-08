@@ -37,3 +37,9 @@
 [submodule "ree-1-filter"]
 	path = ree-1-filter
 	url = https://github.com/d8euAI8sMs/ree-1-filter.git
+[submodule "appveyor-miktex-install"]
+	path = appveyor-miktex-install
+	url = https://github.com/d8euAI8sMs/appveyor-miktex-install.git
+[submodule "appveyor-latex-build"]
+	path = appveyor-latex-build
+	url = https://github.com/d8euAI8sMs/appveyor-latex-build.git
