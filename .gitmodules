@@ -1,36 +1,36 @@
 [submodule "pt-2-process-manager"]
 	path = pt-2-process-manager
-	url = https://gitlab.com/d8euAI8sMs/pt-2-process-manager.git
+	url = https://github.com/d8euAI8sMs/pt-2-process-manager.git
 [submodule "pt-1-error-lookup"]
 	path = pt-1-error-lookup
-	url = https://gitlab.com/d8euAI8sMs/pt-1-error-lookup.git
+	url = https://github.com/d8euAI8sMs/pt-1-error-lookup.git
 [submodule "pt-3-threads"]
 	path = pt-3-threads
-	url = https://gitlab.com/d8euAI8sMs/pt-3-threads.git
+	url = https://github.com/d8euAI8sMs/pt-3-threads.git
 [submodule "pt-4-synchronization"]
 	path = pt-4-synchronization
-	url = https://gitlab.com/d8euAI8sMs/pt-4-synchronization.git
+	url = https://github.com/d8euAI8sMs/pt-4-synchronization.git
 [submodule "pt-5-dll"]
 	path = pt-5-dll
-	url = https://gitlab.com/d8euAI8sMs/pt-5-dll.git
+	url = https://github.com/d8euAI8sMs/pt-5-dll.git
 [submodule "ss-1-logistic"]
 	path = ss-1-logistic
-	url = https://gitlab.com/d8euAI8sMs/ss-1-logistic.git
+	url = https://github.com/d8euAI8sMs/ss-1-logistic.git
 [submodule "pt-6-component-model"]
 	path = pt-6-component-model
-	url = https://gitlab.com/d8euAI8sMs/pt-6-component-model.git
+	url = https://github.com/d8euAI8sMs/pt-6-component-model.git
 [submodule "pt-7-dual-interface"]
 	path = pt-7-dual-interface
-	url = https://gitlab.com/d8euAI8sMs/pt-7-dual-interface.git
+	url = https://github.com/d8euAI8sMs/pt-7-dual-interface.git
 [submodule "util-cpp-common"]
 	path = util-cpp-common
 	url = https://github.com/d8euAI8sMs/util-cpp-common.git
 [submodule "pt-8-class-library"]
 	path = pt-8-class-library
-	url = https://gitlab.com/d8euAI8sMs/pt-8-class-library.git
+	url = https://github.com/d8euAI8sMs/pt-8-class-library.git
 [submodule "ss-2-electromagnetic"]
 	path = ss-2-electromagnetic
-	url = https://gitlab.com/d8euAI8sMs/ss-2-electromagnetic.git
+	url = https://github.com/d8euAI8sMs/ss-2-electromagnetic.git
 [submodule "ss-3-delta-barrier"]
 	path = ss-3-delta-barrier
 	url = https://github.com/d8euAI8sMs/ss-3-delta-barrier.git
