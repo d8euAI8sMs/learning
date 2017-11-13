@@ -46,3 +46,6 @@
 [submodule "ss-4-eigensystem"]
 	path = ss-4-eigensystem
 	url = https://github.com/d8euAI8sMs/ss-4-eigensystem.git
+[submodule "sw-1-spherical-waves"]
+	path = sw-1-spherical-waves
+	url = https://github.com/d8euAI8sMs/sw-1-spherical-waves.git
