@@ -52,3 +52,6 @@
 [submodule "ss-5-wave-packet"]
 	path = ss-5-wave-packet
 	url = https://github.com/d8euAI8sMs/ss-5-wave-packet.git
+[submodule "ss-6-heat"]
+	path = ss-6-heat
+	url = https://github.com/d8euAI8sMs/ss-6-heat.git
