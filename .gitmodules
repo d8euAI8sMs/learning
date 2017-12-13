@@ -55,3 +55,6 @@
 [submodule "ss-6-heat"]
 	path = ss-6-heat
 	url = https://github.com/d8euAI8sMs/ss-6-heat.git
+[submodule "ml-1-all"]
+	path = ml-1-all
+	url = https://github.com/d8euAI8sMs/ml-1-all.git
