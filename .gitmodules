@@ -58,3 +58,6 @@
 [submodule "ml-1-all"]
 	path = ml-1-all
 	url = https://github.com/d8euAI8sMs/ml-1-all.git
+[submodule "ss-7-poisson"]
+	path = ss-7-poisson
+	url = https://github.com/d8euAI8sMs/ss-7-poisson.git
