@@ -5,7 +5,7 @@ environment:
     texify --pdf --src-specials --tex-option="--src -src-specials --tcx=CP1251 --shell-escape --enable-write18 --interaction=nonstopmode --synctex=-1" --batch
 
 # cache miktex installation
-# cache version = 1; change to cause cache invalidation
+# cache version = 2; change to cause cache invalidation
 cache:
   - c:\miktex -> .\.latex.appveyor.yml
 
