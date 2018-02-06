@@ -61,3 +61,6 @@
 [submodule "ss-7-poisson"]
 	path = ss-7-poisson
 	url = https://github.com/d8euAI8sMs/ss-7-poisson.git
+[submodule "ss-8-triangulation"]
+	path = ss-8-triangulation
+	url = https://github.com/d8euAI8sMs/ss-8-triangulation.git
