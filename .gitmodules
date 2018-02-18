@@ -64,3 +64,6 @@
 [submodule "ss-8-triangulation"]
 	path = ss-8-triangulation
 	url = https://github.com/d8euAI8sMs/ss-8-triangulation.git
+[submodule "kr-1-all"]
+	path = kr-1-all
+	url = https://github.com/d8euAI8sMs/kr-1-all.git

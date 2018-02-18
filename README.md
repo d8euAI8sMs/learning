@@ -38,6 +38,7 @@ Known exceptions:
 * `ree-x` _is_ **R**adioelectronics and **E**lectronic **E**ngineering
 * `sw-x` _is_ **S**cience **W**ork
 * `ml-x` _is_ **M**achine **L**earning
+* `kr-x` _is_ **K**nowledge **R**epresentation and Reasoning
 
 Other included projects are mostly general-purpose (infrastructure or utilities).
 
@@ -111,6 +112,7 @@ where `<project_name>` is a name of the desired project. E.g. https://ci.appveyo
 * `ree-x` -- Радиоэлектроника и электронная техника
 * `sw-x` -- Научная работа
 * `ml-x` -- Машинное обучение
+* `kr-x` -- Представление знаний
 
 Иные включенные проекты в основном общего назначения (инфраструктура или утилиты).
 
