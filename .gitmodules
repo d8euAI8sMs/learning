@@ -67,3 +67,6 @@
 [submodule "kr-1-all"]
 	path = kr-1-all
 	url = https://github.com/d8euAI8sMs/kr-1-all.git
+[submodule "ss-9-poisson-ag"]
+	path = ss-9-poisson-ag
+	url = https://github.com/d8euAI8sMs/ss-9-poisson-ag.git
