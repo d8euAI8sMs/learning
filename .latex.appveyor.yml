@@ -5,6 +5,8 @@ environment:
     texify --pdf --tex-option="--tcx=UTF8" --tex-option="--enable-write18" --tex-option="--shell-escape" --tex-option="--interaction=nonstopmode" --batch
   LATEX_INPUT_DOC:
     report.tex
+  FAIL_BUILD_ON_ERROR:
+    yes
 
 # cache miktex installation
 # cache version = 8; change to cause cache invalidation
