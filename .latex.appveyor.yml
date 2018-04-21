@@ -2,10 +2,12 @@ version: '{build}'
 
 environment:
   LATEX_BUILD_COMMAND:
-    texify --pdf --src-specials --tex-option="--src -src-specials --tcx=CP1251 --shell-escape --enable-write18 --interaction=nonstopmode --synctex=-1" --batch
+    texify --pdf --tex-option="--tcx=UTF8" --tex-option="--enable-write18" --tex-option="--shell-escape" --tex-option="--interaction=nonstopmode" --batch
+  LATEX_INPUT_DOC:
+    report.tex
 
 # cache miktex installation
-# cache version = 2; change to cause cache invalidation
+# cache version = 8; change to cause cache invalidation
 cache:
   - c:\miktex -> .\.latex.appveyor.yml
 
@@ -15,9 +17,9 @@ install:
   - git submodule update --init --recursive
 
   # setup and install miktex if it was not restored from cache
-  - set "PATH=%PATH%;c:\miktex\texmfs\install\miktex\bin"
+  - set "PATH=%PATH%;c:\miktex\miktex\bin"
   - cd .\appveyor-miktex-install
-  - if not exist c:\miktex\texmfs\install\miktex\bin\pdflatex.exe .\miktex-install.bat
+  - if not exist c:\miktex\miktex\bin\pdflatex.exe .\miktex-install.bat
   - cd ..
 
 # build all configured submodules
