@@ -73,3 +73,6 @@
 [submodule "ss-10-tetrode"]
 	path = ss-10-tetrode
 	url = https://github.com/d8euAI8sMs/ss-10-tetrode.git
+[submodule "ss-11-fdtd"]
+	path = ss-11-fdtd
+	url = https://github.com/d8euAI8sMs/ss-11-fdtd.git
