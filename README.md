@@ -39,6 +39,8 @@ Known exceptions:
 * `sw-x` _is_ **S**cience **W**ork
 * `ml-x` _is_ **M**achine **L**earning
 * `kr-x` _is_ **K**nowledge **R**epresentation and Reasoning
+* `na-x` _is_ **N**umerical **A**nalysis
+* `it-x` _is_ **I**nformation **T**echnologies
 
 Other included projects are mostly general-purpose (infrastructure or utilities).
 
@@ -113,6 +115,8 @@ where `<project_name>` is a name of the desired project. E.g. https://ci.appveyo
 * `sw-x` -- Научная работа
 * `ml-x` -- Машинное обучение
 * `kr-x` -- Представление знаний
+* `na-x` -- Вычислительные методы
+* `it-x` -- Информационные технологии
 
 Иные включенные проекты в основном общего назначения (инфраструктура или утилиты).
 
