@@ -76,3 +76,21 @@
 [submodule "ss-11-fdtd"]
 	path = ss-11-fdtd
 	url = https://github.com/d8euAI8sMs/ss-11-fdtd.git
+[submodule "it-1-fourier"]
+	path = it-1-fourier
+	url = https://github.com/d8euAI8sMs/it-1-fourier.git
+[submodule "it-2-ar"]
+	path = it-2-ar
+	url = https://github.com/d8euAI8sMs/it-2-ar.git
+[submodule "it-3-phd"]
+	path = it-3-phd
+	url = https://github.com/d8euAI8sMs/it-3-phd.git
+[submodule "it-4-deconv"]
+	path = it-4-deconv
+	url = https://github.com/d8euAI8sMs/it-4-deconv.git
+[submodule "it-5-fienup"]
+	path = it-5-fienup
+	url = https://github.com/d8euAI8sMs/it-5-fienup.git
+[submodule "it-6-hilbert"]
+	path = it-6-hilbert
+	url = https://github.com/d8euAI8sMs/it-6-hilbert.git
