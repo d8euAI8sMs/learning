@@ -94,3 +94,6 @@
 [submodule "it-6-hilbert"]
 	path = it-6-hilbert
 	url = https://github.com/d8euAI8sMs/it-6-hilbert.git
+[submodule "it-7-fourier2d"]
+	path = it-7-fourier2d
+	url = https://github.com/d8euAI8sMs/it-7-fourier2d.git
