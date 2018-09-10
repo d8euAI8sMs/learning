@@ -97,3 +97,6 @@
 [submodule "it-7-fourier2d"]
 	path = it-7-fourier2d
 	url = https://github.com/d8euAI8sMs/it-7-fourier2d.git
+[submodule "qa-1-all"]
+	path = qa-1-all
+	url = https://github.com/d8euAI8sMs/qa-1-all.git
