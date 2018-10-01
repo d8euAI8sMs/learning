@@ -100,3 +100,6 @@
 [submodule "qa-1-all"]
 	path = qa-1-all
 	url = https://github.com/d8euAI8sMs/qa-1-all.git
+[submodule "sw-2-grav-waves"]
+	path = sw-2-grav-waves
+	url = https://github.com/d8euAI8sMs/sw-2-grav-waves.git
