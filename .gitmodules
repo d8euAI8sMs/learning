@@ -103,3 +103,15 @@
 [submodule "sw-2-grav-waves"]
 	path = sw-2-grav-waves
 	url = https://github.com/d8euAI8sMs/sw-2-grav-waves.git
+[submodule "it-8-radiation-pattern"]
+	path = it-8-radiation-pattern
+	url = https://github.com/d8euAI8sMs/it-8-radiation-pattern
+[submodule "it-9-jpeg"]
+	path = it-9-jpeg
+	url = https://github.com/d8euAI8sMs/it-9-jpeg
+[submodule "ss-12-molecular-dynamics"]
+	path = ss-12-molecular-dynamics
+	url = https://github.com/d8euAI8sMs/ss-12-molecular-dynamics
+[submodule "ss-13-ising"]
+	path = ss-13-ising
+	url = https://github.com/d8euAI8sMs/ss-13-ising
