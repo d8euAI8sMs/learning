@@ -115,3 +115,21 @@
 [submodule "ss-13-ising"]
 	path = ss-13-ising
 	url = https://github.com/d8euAI8sMs/ss-13-ising
+[submodule "tip-1-backprojection"]
+	path = tip-1-backprojection
+	url = https://github.com/d8euAI8sMs/tip-1-backprojection
+[submodule "tip-2-texture-analysis"]
+	path = tip-2-texture-analysis
+	url = https://github.com/d8euAI8sMs/tip-2-texture-analysis
+[submodule "tip-3-tracking"]
+	path = tip-3-tracking
+	url = https://github.com/d8euAI8sMs/tip-3-tracking
+[submodule "ree-2-stgen"]
+	path = ree-2-stgen
+	url = https://github.com/d8euAI8sMs/ree-2-stgen
+[submodule "var-1-reports"]
+	path = var-1-reports
+	url = https://github.com/d8euAI8sMs/var-1-reports
+[submodule "var-2-articles"]
+	path = var-2-articles
+	url = https://github.com/d8euAI8sMs/var-2-articles
