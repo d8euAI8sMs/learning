@@ -27,9 +27,10 @@ No way.
 
 All the code is implicitely licensed to [Alexander Vasilevsky (kalaider)](https://github.com/kalaider) under the terms of `Apache 2.0` license starting from the moment of publication without the need of any attribution notice in the source code or somewhere else. There might be some exceptions that are stated explicitely on a per-project (per-source-file or per-source-block) basis. Please contact an author if you need other license for some reasons.
 
-Known exceptions:
+Known exception (commonly stated in readme of the particular project) examples:
 
 * `ml-1-all` is a just-my-code version of https://bitbucket.org/kalaider/machine_learning_fzf. The first commit, [#ed92473](https://github.com/d8euAI8sMs/ml-1-all/commit/ed924739686c443dc4816916cd8a6c9a6be6d1dc), is the squash commit of the previous collective work. The original project is released without any applied license (but the author has a permission to publish and modify the code). So, `Apache 2.0` license is applied to only the changes made by the author that follow the commit above.
+* `util-cpp-opencv30` is a collection of OpenCV headers and binaries. Is distributed under its original license.
 
 ## ToC
 
@@ -41,6 +42,8 @@ Known exceptions:
 * `kr-x` _is_ **K**nowledge **R**epresentation and Reasoning
 * `na-x` _is_ **N**umerical **A**nalysis
 * `it-x` _is_ **I**nformation **T**echnologies
+* `tip-x` _is_ **T**omography **I**mage **P**rocessing
+* `var-x` _is_ **Var**ious materials (reports, articles, presentations, code)
 
 Other included projects are mostly general-purpose (infrastructure or utilities).
 
@@ -103,9 +106,10 @@ where `<project_name>` is a name of the desired project. E.g. https://ci.appveyo
 
 Весь код неявно обретает лицензию `Apache 2.0` на имя [Александра Василевского (kalaider)](https://github.com/kalaider) с момента его публикации без необходимости дополнительных отсылок и указаний в исходном коде или где-либо еще. Могут быть исключения, о которых сообщается явно для конкретных проектов (исходных файлов, участков исходного кода). Обратитесь к автору, если Вам по какой-то причине требуется иная лицензия.
 
-Известные исключения:
+Примеры известных исключений (обычно прописаны в readme конкретного проекта):
 
 * `ml-1-all` -- только-мой-код, отзеркаленный из оригинального репозитория https://bitbucket.org/kalaider/machine_learning_fzf. Первый коммит, [#ed92473](https://github.com/d8euAI8sMs/ml-1-all/commit/ed924739686c443dc4816916cd8a6c9a6be6d1dc), -- один большой коммит ранее коллективной работы. Оригинальный проект не имеет какой-либо указанной лицензии (но автор имеет разрешение публиковать и изменять код). Так что лицензия `Apache 2.0` применяется только к последующим изменениям, сделанным автором поверх указанного коммита.
+* `util-cpp-opencv30` -- заголовочные файлы и бинарники OpenCV распространяются под оригинальной лицензией.
 
 ## Содержание
 
@@ -117,6 +121,8 @@ where `<project_name>` is a name of the desired project. E.g. https://ci.appveyo
 * `kr-x` -- Представление знаний
 * `na-x` -- Вычислительные методы
 * `it-x` -- Информационные технологии
+* `tip-x` -- Томография и обработка изображений
+* `var-x` -- Разное (отчеты, статьи, презентации, код)
 
 Иные включенные проекты в основном общего назначения (инфраструктура или утилиты).
 
