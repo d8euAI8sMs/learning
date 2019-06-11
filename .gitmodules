@@ -133,3 +133,9 @@
 [submodule "var-2-articles"]
 	path = var-2-articles
 	url = https://github.com/d8euAI8sMs/var-2-articles
+[submodule "ree-3-reed-solomon"]
+	path = ree-3-reed-solomon
+	url = https://github.com/d8euAI8sMs/ree-3-reed-solomon.git
+[submodule "ss-13-ising-opencl"]
+	path = ss-13-ising-opencl
+	url = https://github.com/d8euAI8sMs/ss-13-ising.git
