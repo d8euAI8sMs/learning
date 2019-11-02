@@ -139,3 +139,24 @@
 [submodule "ss-13-ising-opencl"]
 	path = ss-13-ising-opencl
 	url = https://github.com/d8euAI8sMs/ss-13-ising.git
+[submodule "scm-1-delay"]
+	path = scm-1-delay
+	url = https://github.com/d8euAI8sMs/scm-1-delay.git
+[submodule "scm-2-matched-filter"]
+	path = scm-2-matched-filter
+	url = https://github.com/d8euAI8sMs/scm-2-matched-filter.git
+[submodule "scm-3-ambig-fun"]
+	path = scm-3-ambig-fun
+	url = https://github.com/d8euAI8sMs/scm-3-ambig-fun.git
+[submodule "sys-1-p2p"]
+	path = sys-1-p2p
+	url = https://github.com/d8euAI8sMs/sys-1-p2p.git
+[submodule "sys-2-transactions"]
+	path = sys-2-transactions
+	url = https://github.com/d8euAI8sMs/sys-2-transactions.git
+[submodule "sys-3-snmp"]
+	path = sys-3-snmp
+	url = https://github.com/d8euAI8sMs/sys-3-snmp.git
+[submodule "tip-4-morph-analysis"]
+	path = tip-4-morph-analysis
+	url = https://github.com/d8euAI8sMs/tip-4-morph-analysis.git

@@ -43,6 +43,8 @@ Known exception (commonly stated in readme of the particular project) examples:
 * `na-x` _is_ **N**umerical **A**nalysis
 * `it-x` _is_ **I**nformation **T**echnologies
 * `tip-x` _is_ **T**omography **I**mage **P**rocessing
+* `scm-x` _is_ **S**pecial **C**hapters of **M**ath
+* `sys-x` _is_ **Sys**tems Engineering
 * `var-x` _is_ **Var**ious materials (reports, articles, presentations, code)
 
 Other included projects are mostly general-purpose (infrastructure or utilities).
@@ -122,6 +124,8 @@ where `<project_name>` is a name of the desired project. E.g. https://ci.appveyo
 * `na-x` -- Вычислительные методы
 * `it-x` -- Информационные технологии
 * `tip-x` -- Томография и обработка изображений
+* `scm-x` -- Спецглавы математики
+* `sys-x` -- Системная инженерия
 * `var-x` -- Разное (отчеты, статьи, презентации, код)
 
 Иные включенные проекты в основном общего назначения (инфраструктура или утилиты).
