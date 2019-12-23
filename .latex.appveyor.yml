@@ -9,7 +9,7 @@ environment:
     yes
 
 # cache miktex installation
-# cache version = 8; change to cause cache invalidation
+# cache version = 9; change to cause cache invalidation
 cache:
   - c:\miktex -> .\.latex.appveyor.yml
 
